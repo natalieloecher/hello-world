@@ -4,7 +4,7 @@ I am a sophomore at the University of Iowa and I am studying Accounting and Busi
 ## Table of Contents
 -[Project Title](Project-Title)
 -[Description](Description)
-[Project Takeaways](Project-Takeaways)
+-[Project Takeaways](Project-Takeaways)
 
 # Project Title
 
